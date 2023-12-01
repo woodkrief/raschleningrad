@@ -7,4 +7,6 @@ This is an archive of free advertisements for the sale of apartments in St. Pete
 It was necessary to determine the market value of real estate. 
 The goal is to conduct exploratory data analysis that will help establish the parameters that affect the price of objects.
 
+Project Status: Completed
+
 All conclusions are contained in the main file - in the final section.
